@@ -20,7 +20,7 @@
 	<div class="top"></div>
 	<div class="middel">
 	
-		Hello ${name}
+		Hello, ${name}!
 	
 	</div>
 	<div class="footer"></div>
