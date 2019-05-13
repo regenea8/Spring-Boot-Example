@@ -18,3 +18,8 @@ Initialization-Example-05
 jsp 예제를 추가하였습니다.
 ㆍpom.xml
 ㆍapplication.properties
+
+Initialization-Example-06
+html 예제를 추가하였습니다.
+ㆍpom.xml
+ㆍapplication.properties
