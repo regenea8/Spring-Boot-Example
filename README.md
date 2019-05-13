@@ -12,5 +12,9 @@ application을 포함한 class 파일을 package화 하였습니다.
 
 Initialization-Example-04
 DML 구문 (select, inser, update, delete) 예제를 추가하였습니다.
+ㆍapplication.properties
 
-
+Initialization-Example-05
+jsp 예제를 추가하였습니다.
+ㆍpom.xml
+ㆍapplication.properties
