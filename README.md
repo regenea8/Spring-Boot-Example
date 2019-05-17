@@ -16,6 +16,7 @@ DML 구문 (select, inser, update, delete) 예제를 추가하였습니다.
 
 Initialization-Example-05
 jsp 예제를 추가하였습니다.
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-web-jsp
 ㆍpom.xml
 ㆍapplication.properties
 
