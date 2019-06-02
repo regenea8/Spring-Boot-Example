@@ -25,7 +25,7 @@ Initialization-Example-06
 ㆍpom.xml
 ㆍapplication.properties
 
-#JPA-Postgresql-Example
+# JPA-Postgresql-Example
 
 JPA-Postgresql-Example-01
 -Postgresql 연동 세팅을 추가하였습니다.
