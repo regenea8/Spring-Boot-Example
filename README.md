@@ -17,13 +17,13 @@ Initialization-Example-04
 Initialization-Example-05
 - jsp 예제를 추가하였습니다.
 - https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-web-jsp
-ㆍpom.xml
-ㆍapplication.properties
+- pom.xml
+- application.properties
 
 Initialization-Example-06
 - html 예제를 추가하였습니다.
-ㆍpom.xml
-ㆍapplication.properties
+- pom.xml
+- application.properties
 
 # JPA-Postgresql-Example
 
@@ -31,7 +31,7 @@ JPA-Postgresql-Example-01
 - Postgresql 연동 세팅을 추가하였습니다.
 - CRUD 등은 진행하지 않았습니다.
 - java.lang.reflect.invocationtargetexception: null
-https://stackoverflow.com/questions/49680199/java-lang-reflect-invocationtargetexception-null
+- https://stackoverflow.com/questions/49680199/java-lang-reflect-invocationtargetexception-null
 
 JPA-Postgresql-Example-02
 - Postgresql 연동 세팅을 추가하였습니다.
