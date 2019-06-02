@@ -34,3 +34,7 @@ https://stackoverflow.com/questions/49680199/java-lang-reflect-invocationtargete
 JPA-Postgresql-Example-02
 Postgresql 연동 세팅을 추가하였습니다.
 Select(findAll())을 진행하여 실제 데이터를 조회하였습니다.
+
+JPA-Postgresql-Example-03
+User 테이블과 Board 테이블을 조인하여 출력하였습니다.
+
