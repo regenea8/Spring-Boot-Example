@@ -55,11 +55,11 @@ Springboot-Recipe-03
 - 문제점을 해결하려면 자동으로 클래스를 감지하고 객체를 생성해주는 @ComponentScan을 활용한다. 이는 @Autowired나 @value로 주입되는 의존서이나 속성을 함께 사용할 수 있다. 또는 생성될 때 빈의 생성자를 사요해 더 많이 제어하도록 @Bean 애노테이션이 추가된 함수를 사용할 수 있다.
 - @SpringBootApplication에는 @ComponentScan과 @Configuration이 포함되어 있다. 이 의미는 @Component 애노테이션이 추가된 클래스는 자동으로 감지돼 스프링 부트에 의해 객체화된다는 것이다. 또한 선언할 빈을 저의한 @Bean 함수 사용도 가능하다.
 - @SpringBootApplication 애노테이션은 소위 말하는 합성 애노테이션이며 이전에 필요로 했던 애노테이션으로 구성되어 있다.  
-  * @Target({ElementType.TYPE{)
-  * @Retention(RetentionPolicy.RUNTIME)
-  * @Documented
-  * @Inherited
-  * @SpringBootConfiguration
-  * @EnableAutoConfiguration
-  * @ComponnentScan
-  * public @interface SpringBootApplication { ... }  
+  - @Target({ElementType.TYPE{)
+  - @Retention(RetentionPolicy.RUNTIME)
+  - @Documented
+  - @Inherited
+  - @SpringBootConfiguration
+  - @EnableAutoConfiguration
+  - @ComponnentScan
+  - public @interface SpringBootApplication { ... }  
