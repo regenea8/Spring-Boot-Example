@@ -63,3 +63,12 @@ Springboot-Recipe-03
   - @EnableAutoConfiguration
   - @ComponnentScan
   - public @interface SpringBootApplication { ... }  
+
+Springboot-Recipe-04
+- 특정 로거로 로그 수준을 구성하고자 한다.
+- 스프링 부트를 사용해 로깅 프레임워크 및 구성을 진행할 수 있다.  
+
+Springboot-Recipe-05
+- 스프링 부트를 사용해 스프링 MVC 애플리케이션을 만든다.
+- 스프링 부트는 스프링 MVC에 필요한 컴포넌트를 사용하기 위해 자동 구성을 진행할 것이다. 
+- 이를 활성화하려면 스프링 부트가 클래스패스에서 스프링 MVC 클래스를 감지할 수 있어야 하는데, 의존성에 spring-boot-starter-web을 추가해야 한다.  
